@@ -1,0 +1,36 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj
+_test
+bin/
+
+# Architecture specific extensions/prefixes
+*.[568vq]
+[568vq].out
+
+_testmain.go
+
+*.exe
+*.test
+*.prof
+*.swp
+*.swo
+
+# ctags file
+.tags
+.tags_sorted_by_file
+
+.DS_Store
+
+tags
+
+.idea/
+*.iml
+*.sublime-*
+
+ex1/ex1/token.mat
+ex1/ex1/octave-workspace
